@@ -1,0 +1,22 @@
+# Java / Gradle
+.gradle/
+build/
+out/
+
+# Compiled Java files
+*.class
+
+# IDE
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Exercism local config/cache if any
+.exercism/user.json
+
+.DS_Store.DS_Store
