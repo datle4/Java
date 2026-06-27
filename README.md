@@ -125,19 +125,19 @@ exercism download --exercise=jedliks-toy-car --track=java
 Because this repository is already dedicated to Java learning, exercise folders are stored directly inside:
 
 ```text
-exercise/
+exercises/
 ```
 
 If Exercism downloads exercises into `exercise/java/`, move the exercise folder up one level:
 
 ```bash
-mv exercise/java/hello-world exercise/
+mv exercises/java/hello-world exercises/
 ```
 
 Then remove the empty `java` folder if needed:
 
 ```bash
-rmdir exercise/java
+rmdir exercises/java
 ```
 
 ## Git Workflow
